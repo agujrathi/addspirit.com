@@ -1,0 +1,4 @@
+/* Add here all your CSS customizations */
+.custom-parallax-bg-pos-left {
+	background-position-x: 20% !important;
+}
